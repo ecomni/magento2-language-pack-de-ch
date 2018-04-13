@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magento2 German Language Pack (de_CH)
+ *
+ * Github: https://github.com/Chuvisco88/magento2-language-pack-de-ch
+ * Packagist: https://packagist.org/packages/chuvisco88/magento2-language-pack-de-ch
+ *
+ * @author Fabian Schweizer <fa.schweizer@gmail.com>
+ * @copyright Copyright © 2018
+ * @version 1.0.0
+ */
+-->
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>de_CH</code>
+    <vendor>chuvisco88</vendor>
+    <package>de_ch</package>
+    <sort_order>1</sort_order>
+    <use vendor="splendid" package="de_de"/>
+</language>

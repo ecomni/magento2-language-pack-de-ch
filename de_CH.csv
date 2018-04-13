@@ -1,0 +1,258 @@
+"
+                            The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.
+                        ","
+                            Die Hintergrundfarbe für den Header der Checkout-Seite.HTML-hexadezimaler Farbcode in ASCII mit sechs Zeichen in Gross- und Kleinschreibung.
+                        ",module,Magento_Paypal
+"
+                            The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.
+                        ","
+                            Das Bild in der oberen linken Ecke der Checkout-Seite. Maximale Grösse 750x90 Pixel. <strong style=""color:red"">https</strong> ausdrücklich gewünscht.
+                        ",module,Magento_Paypal
+"
+                        Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.
+                    ","
+                        Ihr vorgegebens Logo wird in PDF und HTML Dokumenten benutzt. (JPEG, TIFF, PNG) Sollte Ihre Datei verzerrt angezeigt werden, versuchen sie die Dateigrösse zu erhöhen.
+                    ",module,Magento_Sales
+"
+                    <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                            or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.
+                ",module,Magento_Paypal
+"
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                                <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                                or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.
+
+                ",module,Magento_Paypal
+"
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                            <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                            or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.
+                ",module,Magento_Paypal
+"
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
+                        <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
+                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
+                        or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
+                ","
+                    <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.
+                ",module,Magento_Paypal
+"""%1"" exceeds the allowed file size.","""%1"" überschreitet die erlaubte Dateigrösse.",,
+{size},(Grösse),module,Magento_Catalog
+{size},(Grösse),module,Magento_ConfigurableProduct
+{size},(Grösse),module,Magento_ProductVideo
+%1 and greater,%1 und grösser,,
+"<a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financingfrom PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.",,
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you. Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal. The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.",,
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financingfrom PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15% or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.",,
+"<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/><strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financingfrom PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.","<a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Warum für Finanzierung werben?</a><br/><strong>Geben Sie Ihren Verkäufen einen Schub, indem Sie für Finanzierung werben. </strong><br/>PayPal hilft, Ihre Besucher in Käufer zu verwandeln, mit der Finanzierung von PayPal Credit&#174;. Ihre Käufer haben mehr Zeit zu bezahlen, während Sie im Voraus bezahlt werden - ohne zusätzliche Kosten. Verwenden Sie PayPal's kostenlose Banner-Werbung, die es Ihnen ermöglicht, für PayPal Credit&#174 als Zahlungsoption zu werben, wenn Ihre Kunden mit PayPal bezahlen. Das PayPal-Werbeprogramm hat gezeigt, dass es Zusätzliche Käufe erzeugt den Grösse des durchschnittlichen Einkaufs Ihrer Kunden um 15% oder mehr erhöht. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">Details sehen</a>.",,
+<strong>Attention</strong>: Captcha is case sensitive.,<strong> Achtung </strong>: Gross- und Kleinschreibung beachten!,,
+10 by default. Max – 10000,Standardmäßig 10. Maximal 10000.,,
+255 by default,Standardmäßig 255.,,
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Standardmässig 86400 , wenn nicht festgelegt. Um sofort zu aktualisieren, deaktivieren Sie den Block HTML-Output-Cache.",,
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","Standardmässig 86400, wenn nicht festgelegt. Um sofort zu aktualisieren, deaktivieren Sie den Block-HTML-Output-Cache. ",,
+A quantity of %1 is greater than you can return.,"Eine Anzahl von %1 ist grösser, als Sie zurückgeben können.",,
+Accept credit/debit cards and PayPal in your Magento store. No setup or monthly fees and your customers never leave your store to complete the purchase.,"Akzeptieren Sie Kreditkarten und PayPal in Ihrem Magento-Shop. Keine Installation oder monatlichen Kosten und Ihre Kunden verlassen nie Ihren Shop, um ihren Einkauf abzuschliessen.",,
+Accept credit/debit cards and PayPal in your Magento store.<br/>No setup or monthly fees and your customers never leave your store to complete the purchase.,"Akzeptieren Sie Kreditkarten und PayPal in Ihrem Magento-Shop.<br/>Keine Installation oder monatlichen Kosten und Ihre Kunden verlassen nie Ihren Shop, um ihren Einkauf abzuschliessen.",module,Magento_Braintree
+Add after,Anschliessend hinzufügen,,
+Added for spent money according to reward exchange rates.,Gemäss dem Belohnungskurs dem ausgegebenen Geld hinzugefügt,,
+Admin session lifetime must be greater than or equal to 60 seconds,Die Gültigkeit der Administratorsitzung (Admin session lifetime) muss mindestens 60 Sekunden betragen.,module,Magento_Backend
+"After you make your selections, click the ""Create"" button.' ' Then stand by while the System Report is generated. This may take a few minutes.' ' You will receive a notification once this step is completed.","Nachdem Sie Ihre Auswahlen getroffen haben, klicken Sie auf ""Erstellen"". Anschliessend wird der Systembericht erstellt. Dies kann einige Minuten dauern. Sie erhalten eine Benachrichtigung, wenn dieser Schritt abgeschlossen ist.",,
+Allow to Choose State if It is Optional for Country,"Kantonsauswahl erlauben, wenn es optional für das Land ist",,
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in the width/height fields below.","Erlaubte Dateitypen: jpg, jpeg, gif, png. Um das Logo für hochauflösende Displays zu optimieren, laden Sie ein Bild hoch, dass 3x der normalen Grösse hat und geben Sie dann 1x Abmessungen in Breite / Höhe in die unteren Felder ein.",module,Magento_Email
+"Allowed file types: jpg, jpeg, gif, png. To optimize logo for high-resolution displays, upload an image that is 3x normal size and then specify 1x dimensions in width/height fields below.","Erlaubte Dateitypen: jpg, jpeg, gif, png. Um das Logo für hochauflösende Displays zu optimieren, laden Sie ein Bild hoch, dass 3x der normalen Grösse hat und geben Sie dann 1x Abmessungen in Breite / Höhe in die unteren Felder ein.",,
+Applies to Any of the Specified Order Statuses except canceled orders,Gilt für eine der angegebenen Auftragsstatus ausser stornierte Aufträge,,
+Are you sure that you want to log out all other sessions?,"Sind Sie sicher, dass sie alle anderen Sessions abmelden wollen?",module,Magento_Security
+Are you sure you want to close this returns request?,"Sind Sie sicher, dass Sie diese Rücksendeanfrage schliessen möchten?",,
+Are you sure you want to delete synonym group with id: %1?,"Sind Sie sicher, dass sie die Synonymgruppe mit ID: %1 löschen wollen?",module,Magento_Search
+Are you sure you want to delete the selected synonym groups?,"Sind sie sicher, dass sie die gewählte Synonymgruppe löschen wollen?",module,Magento_Search
+Are you sure you want to delete this address?,"Sind Sie sicher, dass sie diese Adresse löschen wollen?",module,Magento_Customer
+Are you sure you want to delete this file?,"Sind Sie sicher, dass Sie die Datei löschen möchten?",module,Magento_Theme
+Are you sure you want to delete this folder?,"Sind Sie sicher, dass Sie den Ordner löschen möchten?",module,Magento_Theme
+Are you sure you want to delete this synonym group?,"Sind Sie sicher, dass sie diese Synonymgruppe löschen wollen?",module,Magento_Search
+Are you sure you want to delete this theme?,"Sind Sie sicher, dass Sie das Theme löschen möchten?",module,Magento_Theme
+Are you sure you want to do this?,"Sind Sie sicher, dass Sie das tun wollen?",module,Magento_Tax
+Are you sure you want to do this?,"Sind Sie sicher, dass Sie das tun wollen?",module,Magento_UrlRewrite
+Are you sure you want to do this?,"Sind sie sicher, dass Sie das tun wollen?",module,Magento_User
+Are you sure you want to do this?,"Sind sie sicher, dass Sie das tun wollen?",module,Magento_Customer
+Are you sure you want to remove this item?,"Sind Sie sicher, dass sie diesen Artikel entfernen wollen?",module,Magento_Wishlist
+Are you sure you want to send a Shipment email to customer?,"Sind Sie sicher, dass sie eine Versandemail and den Kunden schicken wollen?",module,Magento_Shipping
+Attention: Captcha is case sensitive.,Achtung: Captcha berücksichtigt Gross- u. Kleinschreibung,module,Magento_Captcha
+AVS Street Does Not Match,AVS-Strasse entspricht nicht,,
+AVS Street Match,AVS-Strassenübereinstimmung,,
+Big Image,Grosses Bild,,
+"By default it is ""reports.paypal.com"".","Standardmässig ist es ""reports.paypal.com"".",,
+Cannot identify measure unit for %1,Kann Masseinheit für %1 nicht identifizieren,,
+Case Sensitive,Gross- und Kleinschreibung,,
+close,Schliessen,,
+Close,Schliessen,,
+Close panel,Panel schliessen,,
+Close popup,Pop-up schliessen,,
+Close Window,Fenster schliessen,,
+Country/State,Land/Kanton,,
+Default Product Listing Sort By,Produkte standardmässig sortiert nach,,
+Disabled by Default,Standardmässig deaktiviert.,,
+Discount value should be 0 or greater.,Rabattwert sollte grösser als 0 sein.,,
+"Duplicate Row #%1 (Country ""%2"", Region/State ""%3"", Zip ""%4"" and Value ""%5"")","Reihe #%1 duplizieren (Land ""%2"", Region/Kanton ""%3"", PLZ ""%4"" und Wert ""%5"")",,
+Enable Scheduled File History Cleaning,Planmässige Dateihistoriebereinigung aktivieren,,
+Enabled by Default,Standardmässig aktiviert,,
+Entering no value or a value greater than the expiration lifetime disables the warning notification.,Kein eingegebener Wert oder ein Wert grösser als die Verfallslaufzeit deaktiviert die Warnungsbenachrichtigung.,,
+Entity type model must be an instance of '%1',Der Ausführungstyp (entity type model) muss eine Instanz von  '%1',module,Magento_CatalogImportExport
+Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,Der Ausführungstyp (entity type model) muss eine Instanz von \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType sein.,module,Magento_AdvancedPricingImportExport
+Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType,Der Ausführungstyp (entity type model) muss eine Instanz von \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType sein.,module,Magento_CatalogImportExport
+Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType,Der Ausführungstyp (entity type model) muss eine Instanz von Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType sein.,module,Magento_CatalogImportExport
+Exclude,Ausschliessen,,
+Exclude from Navigation Menu,Vom Navigationsmenü ausschliessen,,
+Exclude media folder from backup,Medienordner aus dem Backup ausschliessen,,
+Excluding FPT,Ausschliesslich FPT,,
+"Excluding FPT, FPT description, final price","Ausschliesslich FPT, FPT-Beschreibung, Endpreis",,
+Excluding FPT. Including FPT description and final price,Ausschliesslich FPT. Einschliesslich FPT-Beschreibung und Endpreis.,,
+File size in bytes.,Dateigrösse in Byte.,,
+File you are trying to upload exceeds maximum file size limit.,"Die Datei, die sie hochladen möchten, überschreitet die maximal zulässige Dateigrösse.
+",module,Magento_Ui
+Footer,Fusszeile,,
+"For better search results, first choose a gift registry type. By default, we search all registry types.",Wählen Sie für bessere Suchergebnisse zunächst einen Geschenkelistentyp. Standardmässig werden alle Listentypen durchsucht.,,
+Frame Size,Frame-Grösse,,
+"Gift Order. The street address, city, state, or country of the billing and shipping addresses do not correlate","Geschenkbestellung. Adresse, Stadt, Kanton oder Land der Rechnungs- und Versandadressen hängen nicht zusammen.",,
+Group price must be a number greater than 0.,Gruppenpreis muss grösser als 0 sein.,,
+Has State/Province,Hat Kanton/Provinz,,
+"Height, width and length should be equal or greater than %1","Höhe, Breite und Länge sollten gleich oder grösser als %1 sein.",,
+I'm sorry - but we are not able to complete your transaction. Please contact us so we can assist you.,"Entschuldigung - aber wir sind nicht in der Lage, die Transaktion abzuschliessen. Bitte kontaktieren Sie uns, damit wir Ihnen helfen können.",,
+"If current frame position does not cover utmost pages, it renders the link to current position plus/minus this value.","Wenn sich die aktuelle Bildposition nicht auf ein Höchstmass an Seiten erstreckt, wird der Link auf die aktuelle Position plus/minus diesen Wert gerendert.",module,Magento_Backend
+If Customer Address %1 State/Province specified,Wenn Kundenadresse %1 Kanton/Provinz angegeben,,
+"If set to Yes, you can log in from multiple computers into same account. Default setting No improves security.","Erlauben, sich von verschiedenen Computern mit dem selben Konto anzumelden. Standardmässige Deaktivierung erhöht die Sicherheit.",,
+"If the Current Frame Position does not cover Utmost Pages, will render Link to Current Position plus/minus this Value","Wenn sich die aktuelle Bildposition nicht auf ein Höchstmass an Seiten erstreckt, wird der Link auf die aktuelle Position plus/minus diesen Wert gerendert.",,
+"If the current frame position does not cover utmost pages, will render link to current position plus/minus this value.","Wenn sich die aktuelle Bildposition nicht auf ein Höchstmass an Seiten erstreckt, wird der Link auf die aktuelle Position plus/minus diesen Wert gerendert.",,
+Image Size,Bildgrösse,module,Magento_Catalog
+Image Size,Bildgrösse,module,Magento_ConfigurableProduct
+Image Size,Bildgrösse,module,Magento_ProductVideo
+Image Size,Bildgrösse,module,Magento_Swatches
+Image Size ,Bildgrösse,,
+Include Tax In Order Total,Steuer in Gesamtsumme einschliessen,,
+Including FPT and FPT description,Einschliesslich FPT und FPT-Beschreibung,,
+Including FPT only,Einschliesslich FPT,,
+Invalid product id. Should be numeric value greater than 0,"Ungültige Produkt-ID. Sollte numerischer Wert sein, der grösser ist als 0",module,Magento_Catalog
+Invalid stock item id: %1. Should be null or numeric value greater than 0,Ungültige Lagerbestandsangabe: %1. Die Angabe muss 0 oder eine grössere Zahl sein.,module,Magento_CatalogInventory
+Large,Gross,,
+Login is Case Sensitive,Login mit Gross- und Kleinschreibung,,
+Make sure your file isn't more than %1M.,"Stellen Sie sicher, dass Ihre Datei nicht grösser ist als %1M.",,
+"Manage Titles (Size, Color, etc.)","Titel verwalten (Grösse, Farbe, etc.)",,
+"Manage Titles (Size, Color, etc.)","Titel verwalten (Grösse, Farbe, etc.)",module,Magento_Catalog
+Max file size to upload %1M,Maximale Dateigrösse für den Upload %1M,,
+Max image size %1M,Maximale Bildgrösse %1M,,
+Maximum File Size,Maximale Dateigrösse,,
+Maximum File Size (bytes),Maximale Dateigrösse (Bytes),,
+Maximum Image Size,Maximale Bildgrösse,,
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Das Kennwort muss mindestens  %1 verschiedene Zeichenarten enthalten. Zeichenarten: Kleinbuchstaben, Grossbuchstaben, Ziffern, Sonderzeichen.",module,Magento_Customer
+New Pool Size,Neue Pool-Grösse,,
+"Number of different character classes required in password: Lowercase, Uppercase, Digits, Special Characters.","Anzahl an erforderlichen Zeichenklassen, die im Passwort enthalten sein müssen: Kleinbuchstaben, Grossbuchstaben, Ziffern, Sonderzeichen.",,
+Number of Lines in a Street Address,Anzahl an Zeilen in einer Strasse,,
+"PayPal can't process orders with a zero balance due. To finish your purchase, please go through the standard checkout process.","PayPal kann keine Bestellungen mit einem Null-Saldo durchführen. Damit Sie Ihren Einkauf abschliessen können, gehen Sie bitte über den Standard-Checkout-Prozess.",,
+"PayPal can\'t process orders with a zero balance due. ' 'To finish your purchase, please go through the standard checkout process.","PayPal kann keine Bestellungen ohne Restschuldenbetrag bearbeiten. Um Ihren Einkauf abzuschliessen, durchlaufen Sie bitte den regulären Checkout-Prozess.",,
+Phrase 2 with %a_lot of extra info for the brilliant %customer_name.,Ausdruck 2 mit %a_lot von zusätzlichen Informationen für den grossartigen %customer_name.,,
+"Please correct Region/State ""%1"" in the Row #%2.","Bitte Region/Kanton korrigieren ""%1"" in Reihe #%2.",,
+Please enter a number 0 or greater in this field.,Bitte geben Sie in diesem Feld eine Zahl 0 oder grösser ein.,,
+Please enter a number 1 or greater in this field.,Bitte geben Sie eine Zahl 1 oder grösser in dieses Feld ein.,,
+Please enter a number greater than 0 in this field.,Bitte geben Sie eine Zahl grösser als 0 in diesem Bereich ein.,,
+Please enter a valid date equal to or greater than %1 at %2.,Bitte geben Sie ein gültiges Datum gleich oder grösser als %1 bei %2 ein.,,
+Please enter a value greater than or equal to {0}.,Bitte geben Sie einen Wert grösser oder gleich {0} ein.,module,Magento_Ui
+Please enter a value greater than or equal to %s.,Bitte geben Sie einen Wert grösser oder gleich %s ein.,,
+Please enter the state/province.,Bitte geben Sie den Kanton ein.,,
+Please enter the street.,Bitte geben Sie die Strasse ein.,,
+"Please select a region, state or province","Bitte wählen Sie Region, Kanton oder Provinz",,
+"Please select a region, state or province.","Bitte wählen Sie Region, Kanton oder Provinz.",,
+"Please select region, state or province","Bitte wählen Sie Region, Kanton oder Provinz",,
+Please select State/Province.,Bitte Kanton/Provinz wählen.,,
+Please setup or sign in into your 3rd party account to complete setup of this integration.,"Bitte melden Sie sich in Ihrem Third-Party-Konto an oder richten es ein, um das Setup dieser Integration abzuschliessen.",,
+Range To should be equal or greater than Range From.,"""Bereich bis"" sollte gleich oder grösser ""Bereich von"" sein.",,
+Region/State,Region/Kanton,,
+Regular Pickup,regelmässige Abholung,,
+Responsible according to § 5 TMG,Verantwortlich gemäss §5 Telemediengesetz,module,FireGento_MageSetup
+Save & Close,Speichern und Schliessen,,
+Set this value equal or greater to your cron.php launch period.,Setzen Sie diesen Wert gleich oder grösser als Ihren cron-php-Startzeitraum.,,
+Shipping State/Province,Versand-Kanton / -Provinz,,
+Size,Grösse,,
+Size for %1,Grösse für %1,,
+Size(bytes),Grösse (Byte),,
+Size(bytes),Grösse (Byte),module,Magento_Backup
+"Sorry, we're unable to complete this request.","Es tut uns leid, wir können diese Anforderung nicht abschliessen.",,
+State,Kanton,,
+State is Required for,Kanton ist erforderlich für,,
+State Options,Kantonsoptionen,,
+State/Province,Kanton/Provinz,,
+State/Region,Kanton/Region,,
+Street,Strasse,,
+Street Address 1,Adresse Strasse 1,,
+Street Address 2,Adresse Strasse 2,,
+System (excluding Media),System (ausser Medien),module,Magento_Backup
+The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,Die Hintergrundfarbe für den Header der Checkout-Seite.HTML-hexadezimaler Farbcode in ASCII mit sechs Zeichen in Gross- und Kleinschreibung.,,
+The background color for the header of the checkout page. Case-insensitive six-character HTML hexadecimal color code in ASCII.,Die Hintergrundfarbe für die Kopfzeile der Checkout-Seite. Gross- und Kleinschreibung Sechs-Zeichen HTML hexadezimal Farbcode in ASCII.,,
+The cache storage may contain additional data. Are you sure that you want to flush it?,"Sind Sie sicher, dass Sie den Cache leeren möchten? Er könnte weitere Daten enthalten, die dann auch gelöscht werden.",module,Magento_Backend
+The file '%1' you uploaded is larger than the %2 megabytes allowed by our server.,"Die hochgeladene Datei ""%1"" ist grösser als die von unserem Server erlaubten %2 MB.",,
+The file you uploaded is larger than %1 Megabytes allowed by server,Die hochgeladene Datei ist grösser als die von unserem Server erlaubten %1 MB.,,
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""""color:red"""">https</strong> is highly encouraged.","Das Bild oben links auf der Check-Out-Seite. Die maximale Grösse beträgt 750x90-pixel <strong style=""""color:red"""">https</strong> wird empfohlen..",,
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Das Bild in der oberen linken Ecke der Checkout-Seite. Maximale Grösse 750x90 Pixel. <strong style=""color:red"">https</strong> ausdrücklich gewünscht.",,
+"The image at the top left of the checkout page. Max size is 750x90-pixel. <strong style=""color:red"">https</strong> is highly encouraged.","Das Bild in der oberen linken Ecke auf der Checkout-Seite. Max. Grösse 750x90-pixel. <strong style=""color:red"">https</strong> wird dringend empfohlen.",,
+The maximum allowed image size for '%1' is %2x%3 px.,"Die maximal erlaubte Bildgrösse für ""%1"" ist %2$3 px.",,
+The number of multiple wish lists should be equal to or more than 2.,Die Nummer von mehreren Wunschlisten sollte grösser oder gleich 2 sein.,,
+The page URL key contains capital letters or disallowed symbols.,Der URL-Schlüssel der Seite enthält grosse Buchstaben oder unerlaubte Symbole.,,
+The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%,Das PayPal Werbungsprogramm scheint zusätzliche Einkäufe sowie eine durchschnittliche Einkaufsgrösse von 15% zu erzeugen.,,
+"The quantity to creditmemo must not be greater than the unrefunded quantity for product SKU ""%1"".","Die Menge der Gutschrift darf nicht grösser sein als die nicht erstattete Menge für das Produkt SKU ""%1"".",module,Magento_Sales
+"The quantity to invoice must not be greater than the uninvoiced quantity for product SKU ""%1"".","Die in Rechnung zu stellende Menge darf nicht grösser sein als die nicht in Rechnung gestellte Menge für das Produkt SKU ""%1"".",module,Magento_Sales
+The quantity to refund must not be greater than the unrefunded quantity.,Die zu erstattende Menge darf nicht grösser sein als die nicht erstattete Menge.,module,Magento_Sales
+"The quantity to ship must not be greater than the unshipped quantity for product SKU ""%1"".","Die Versandmenge muss nicht grösser sein als die nicht versendete Menge für das Produkt SKU ""%1"".",module,Magento_Sales
+The root shopping cart condition should have a days value of 0 or greater.,Die Root Einkaufswagen-Bedingung sollte einen Tages-wert von 0 oder grösser haben.,,
+The root wish list condition should have a days value of 1 or greater.,Die Root Wunschlisten-Bedingung sollte einen Tages-wert von 1 oder grösser haben.,,
+"The terms you entered, (%1), belong to %2 existing synonym groups, %3 and %4. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Die von Ihnen eingegebenen Begriffe, (%1), gehören zu %2 bestehenden Synonymgruppen, %3 and %4. Bitte wählen Sie das ""Bestehende Synonyme zusammenfügen"" Auswahlfeld, sodass die Begriffe zusammengefügt werden können.
+",module,Magento_Search
+"The terms you entered, (%1), belong to 1 existing synonym group, %2. Select the ""Merge existing synonyms"" checkbox so the terms can be merged.","Die von Ihnen eingegebenen Begriffe, (%1), gehören zu 1 bestehenden Synonymgruppe, %2. Bitte wählen Sie das ""Bestehende Synonyme zusammenfügen"" Auswahlfeld, sodass die Begriffe zusammengefügt werden können.",module,Magento_Search
+Themes JavaScript and CSS files combined to one file,Die JavaScript und CSS Dateien des Themes zusammengefasst in einer Datei,module,Magento_Backend
+This administrator account is open in more than one location. Note that other locations might be different browsers or sessions on the same computer.,"Das Administratorkonto ist an mehr als einem Ort offen. Beachten Sie, dass andere Orte andere Browser oder Sessions auf demselben Computer sein können.
+",module,Magento_Security
+This file will replace the current custom.css file and can't be more than 2 MB.,Diese Datei wird die aktuelle custom.css Datei ersetzen und darf nicht grösser als 2 MB sein.,,
+This will be displayed just before body closing tag.,Dies wird kurz vor dem schliessenden Tag angezeigt.,,
+This will be displayed just before the body closing tag.,Dies wird kurz vor dem schliessenden Tag angezeigt.,module,Magento_Theme
+This will be included before head closing tag in page HTML.,Dies wird vor dem schliessenden Tag des Kopfes in der Seiten-HTML enthalten sein.,,
+Time hedge. The customer is attempting a purchase outside of the expected hours,Zeitabsicherung. Der Kunde versucht ausserhalb der erwarteten Stunden einzukaufen.,,
+"To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”. ","Um den Preisnachlass auf Preisen einschliesslich der Steuer anzuwenden und die Steuer nach dem Preisnachlass anzuwenden, legen Sie Katalogpreise “Einschliesslich der Steuer” fest.",module,Magento_Tax
+"To complete the rollback, please deselect ""Put store into maintenance mode"" or update your permissions.","Um das Rollback abzuschliessen, deaktivieren Sie bitte den Wartungsmodus oder aktualisieren Sie Ihre Berechtigungen.",,
+Transition year is out of specified date range.,Übergangsjahr liegt ausserhalb des angegebenen Datumsbereichs,,
+Transition year is out of system date range.,Übergangsjahr liegt ausserhalb des Systemdatumsbereichs,,
+"Ttl value ""%1"" is not valid. Please use only numbers equal or greater than zero.","Ttl-Wert ""%1"" ist nicht gültig. Bitte verwenden Sie nur Zahlen gleich oder grösser als Null.",,
+Unable to send the cookie. Size of '%name' is %size bytes.,"Cookie konnte nicht gesendet werden. Grösse von ""%name"" ist %size Bytes.",,
+Unknown State,Unbekannter Kanton,,
+"Upper Alpha (A, B, C, ...)","Grosse alphabetische Buchstaben (A, B, C, ...)",,
+"Upper Roman (I, II, III, ...)","Grosse römische Zahlen (I, II, III, ...)",,
+View Full Size,Originalgrösse anzeigen,,
+"Warning: To apply the discount on prices including tax and apply the tax after discount, set Catalog Prices to “Including Tax”.","Warnung: Um den Preisnachlass auf Preisen einschliesslich der Steuer anzuwenden und die Steuer nach dem Preisnachlass anzuwenden, legen Sie Katalogpreise “Einschliesslich der Steuer” fest.",module,Magento_Tax
+Watermark Default Size,Wasserzeichen-Standardgrösse,,
+We cannot close the RMA request(s).,Wir können diese RMA-Anträge nicht schliessen.,,
+We could not detect a size.,Es konnte keine Grösse erkannt werden.,,
+"We found a duplicate of website, country and state fields for a fixed product tax","Wir fanden ein Duplikat von Website, Land und Kanton-Feldern für eine feste Produktsteuer",,
+We were unable to create full code pool size. Please check settings and try again.,Es konnte nicht der gesamte Code-Pool erstellt werden. Bitte überprüfen Sie Ihre Einstellungen und versuchen es anschliessend erneut.,,
+You can also share it with your friends and family by logging into your account and visiting the Gift Registry tab.,Sie können es ausserdem mit Ihren Freunden und Ihrer Familie teilen indem Sie in Ihr Konto einloggen oder den Geschenkelisten-Reiter besuchen.,,
+You created the system backup (excluding media).,Die System Datensicherung wurde erstellt (ausser Medien).,module,Magento_Backup
+You do not have enough store credit to complete this order.,Sie besitzen nicht genug Shop-Guthaben um diese Bestellung abzuschliessen.,,
+You must set unique country-state combinations within the same fixed product tax,Sie müssen eindeutige Land-Kanton Kombinationen in der gleichen festen Produktsteuer setzen,module,Magento_Weee
+You saved the scheduled import.,Der planmässige Import wurde gespeichert.,,
+You saved the scheduled report.,Der planmässige Bericht wurde gespeichert.,,
+"You will lose any data created since the backup was made, including admin users, customers and orders.","Sie werden alle Daten verlieren, die seit Erstellung des Backups erstellt wurden, einschliesslich Adminbenutzer, Kunden und Bestellungen.",,
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted try to use larger file-size image.","Ihr vorgegebens Logo wird in PDF und HTML Dokumenten benutzt. (JPEG, TIFF, PNG) Sollte Ihre Datei verzerrt angezeigt werden, versuchen sie die Dateigrösse zu erhöhen.",,
+"Your default logo will be used in PDF and HTML documents.<br />(jpeg, tiff, png) If your pdf image is distorted, try to use larger file-size image.","Ihr Standard-Logo wird in PDF- und HTML-Dokumenten verwendet. <br /> (jpeg, tiff, png) Wenn Ihr PDF-Bild verzerrt ist, versuchen Sie für eine grössere Bild-Datei zu verwenden.",,

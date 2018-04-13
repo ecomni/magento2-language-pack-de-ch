@@ -1,6 +1,10 @@
 Magento 2 German (Switzerland) Language Pack
 =============
 
+[![Latest Stable Version](https://poser.pugx.org/chuvisco88/magento2-language-pack-de-ch/v/stable?format=flat-square)](https://packagist.org/packages/chuvisco88/magento2-language-pack-de-ch)
+[![Total Downloads](https://poser.pugx.org/chuvisco88/magento2-language-pack-de-ch/downloads?format=flat-square)](https://packagist.org/packages/chuvisco88/magento2-language-pack-de-ch)
+[![License](https://poser.pugx.org/chuvisco88/magento2-language-pack-de-ch/license?format=flat-square)](https://packagist.org/packages/chuvisco88/magento2-language-pack-de-ch)
+
 Facts
 -----
 - Based on [Magento2_German_LocalePack_de_DE](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) from Splendid Internet GmbH & Co. KG

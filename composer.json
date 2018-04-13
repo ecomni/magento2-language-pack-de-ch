@@ -1,7 +1,7 @@
 {
     "name": "chuvisco88/magento2-language-pack-de-ch",
     "description": "A german (switzerland) language pack for Magento 2 based on splendidinternet/mage2-locale-de-de",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "type": "magento2-language",
     "license": "OSL-3.0",
     "authors": [

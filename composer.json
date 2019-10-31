@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "splendidinternet/mage2-locale-de-de": "1.39.5"
+        "splendidinternet/mage2-locale-de-de": "^1.55"
     },
     "autoload": {
         "files": [
